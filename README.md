@@ -1,7 +1,7 @@
 # SE1406_Group04
 
 Chào thầy,
- Mong thầy góp ý cho nhóm em về ý tưởng project này ạ.
+Mong thầy góp ý cho nhóm em về ý tưởng project này ạ.
 A .Ý tưởng: 
      Tạo ứng dụng cho phép các cá nhân, gia đình, công ty hoặc tổ chức có thể đặt dịch vụ nấu ăn tại nhà hoặc mang mang về từ những người có tay nghề, kiến thức trong ẩm thực.
 
