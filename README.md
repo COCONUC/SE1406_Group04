@@ -2,10 +2,12 @@
 
 Chào thầy,
 Mong thầy góp ý cho nhóm em về ý tưởng project này ạ.
+
 A .Ý tưởng: 
      Tạo ứng dụng cho phép các cá nhân, gia đình, công ty hoặc tổ chức có thể đặt dịch vụ nấu ăn tại nhà hoặc mang mang về từ những người có tay nghề, kiến thức trong ẩm thực.
 
 B. Đối tượng sử dụng:
+
      1. Bên cung: Đầu bếp các nhà hàng, các sommelier, sinh viên các chuyên ngành về ẩm thực.
      2. Bên cầu: Các cá nhân, gia đình, công ty hoặc tổ chức doanh nghiệp.
 
